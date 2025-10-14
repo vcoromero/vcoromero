@@ -65,11 +65,16 @@ Instituto Tecnológico de Villahermosa | *August 2013 – August 2018*
 
 ---
 
-## 📚 Courses in Progress (Udemy)
+## 📚 Courses
 
-- Build AI-Powered Full Stack Apps: Next.js, Supabase, Cursor, Tailwind, MCP, Claude 4 and GPT-5  
-- [Spanish] AWS Certified Cloud Practitioner (CLF-C02) - 2025  
-- Next.js: The React Framework for Production  
+### ✅ Completed
+- GIT+GitHub: Todo un sistema de control de versiones de cero  
+- Cursor + Task Master Full Stack AI Course (NextJS, Supabase)  
+
+### ⏳ In Progress
+- [Español] AWS Certified Cloud Practitioner (CLF-C02) - 2025  
+- Universidad React ★: De Cero a Master  
+- MySQL desde 0 hasta SUPABASE: Domina las bases de datos  
 
 ---
 
